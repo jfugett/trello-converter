@@ -1,0 +1,22 @@
+{
+  "name": "trello-converter",
+  "version": "1.0.0",
+  "description": "Convert Trello JSON export to TXT file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfugett/trello-converter.git"
+  },
+  "author": "Joshwa Fugett <jfugett27@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfugett/trello-converter/issues"
+  },
+  "homepage": "https://github.com/jfugett/trello-converter#readme",
+  "dependencies": {
+    "lodash": "^4.14.1"
+  }
+}
